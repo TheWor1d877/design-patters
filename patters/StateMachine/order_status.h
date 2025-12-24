@@ -1,0 +1,12 @@
+#ifndef CONCURRENT_ORDER_STATUS_H
+#define CONCURRENT_ORDER_STATUS_H
+
+enum class Status {
+    PENDING_PAY,
+    PAID,
+    DELIVERING,
+    COMPLETED
+};
+
+
+#endif //CONCURRENT_ORDER_STATUS_H
