@@ -1,4 +1,4 @@
-# design-patter
+# design-patters
 ## 单例模式
 ✅ 用：全局唯一且状态可共享（日志器、配置表、硬件句柄）。
 ❌ 避：
